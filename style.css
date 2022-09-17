@@ -20,7 +20,6 @@ h1{
 }
 #B{
     background-image:url(images/top-banner.png);
-    border: 1px solid goldenrod;
     background-repeat: no-repeat;
 } 
 section{
@@ -48,4 +47,4 @@ section{
     border: 1px solid goldenrod;
     background-repeat: no-repeat;
     background-position: right;
-}
+} 
