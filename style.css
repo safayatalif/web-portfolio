@@ -1,8 +1,10 @@
 body{
     font-style: italic;
+    margin: 0%;
+    
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
 }
 .name{
  color: aqua;   
@@ -15,4 +17,35 @@ h1{
 }
 .A img{
     width: 100%;
+}
+#B{
+    background-image:url(images/top-banner.png);
+    border: 1px solid goldenrod;
+    background-repeat: no-repeat;
+} 
+section{
+    height: 500px;
+}
+.C{
+    background-image: linear-gradient(40deg ,#ff00ae, #80006f);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 800;
+    color: white;
+    text-decoration: none;
+}
+.D img{
+    width: 100%;
+}
+.D{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-right: 5%;
+}
+.F{
+    background-image:url(images/dream-bg.png);
+    border: 1px solid goldenrod;
+    background-repeat: no-repeat;
+    background-position: right;
 }
