@@ -7,3 +7,12 @@ h1{
 .name{
  color: aqua;   
 }
+.A{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-right: 5%;
+}
+.A img{
+    width: 100%;
+}
